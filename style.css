@@ -1,0 +1,24 @@
+.background{
+    background-image: url(/bike-background.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+}
+.velo1{
+    background-image: url(/bike-1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 120px; width: 200px;
+}
+.velo2{
+    background-image: url(/bike-2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 120px; width: 200px;
+}
+.velo3{
+    background-image: url(/bike-5.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 120px; width: 200px;
+}
